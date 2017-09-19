@@ -2,6 +2,7 @@
 Terence Morley
 John Branch
 
+# Title
 Measurement model Comparison
 
 # Introduction
@@ -21,3 +22,5 @@ Some results here.
 # Conclusions
 This is my conclusion section.
 
+# Acknowledgments
+SOme acks.

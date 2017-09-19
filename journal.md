@@ -2,8 +2,8 @@
 Some abstract.
 
 # Authors
-John Branch
-Terence Morley
+John Branch, SomeWhere
+Terence Morley, UoM
 
 # Title
 Measurement model Comparison

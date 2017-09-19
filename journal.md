@@ -7,3 +7,4 @@ Some Title
 #Introduction
 This is the start of my Introduction section.
 Another paragraph in my intro.
+We used something from (T. Morley, 2017).

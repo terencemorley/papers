@@ -5,6 +5,6 @@ Terence Morley
 Some Title
 
 #Introduction
-This is the start of my Introduction section.
+This is the start of my Introduction section.  Bloggs (2014) said something.
 Another paragraph in my intro.
 We used something from (T. Morley, 2017).
